@@ -2,7 +2,7 @@
 
 dt = 0.01;
 PopSize = 25;
-MaxGenerations = 2;
+MaxGenerations = 4;
 
 % thestate = rng;
 % rng(thestate)
