@@ -1,8 +1,12 @@
+% Credits: Panchenko Dmitriy (D.Panchenko@stud.satbayev.university)
+
 dt = 0.01;
 PopSize = 25;
 MaxGenerations = 2;
+
 % thestate = rng;
 % rng(thestate)
+
 s = tf('s');
 G = 0.07144/(s^2+0.02872*s+0.001539); % Define tf
 
